@@ -6,6 +6,13 @@ body {
 
 header {
     padding-bottom:30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
 }
 
 #video iframe {
